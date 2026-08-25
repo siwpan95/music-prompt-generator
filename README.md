@@ -170,3 +170,11 @@ python demo_validator.py
 > 实现说明：`tkinter.font.Font` 不支持 `file` 参数，旧版"从文件注册字体"的写法从未真正生效（一直静默回退系统字体）；现行方案经实测可正确加载并返回真实字体族名 `优设标题黑`。
 
 如需更换界面字体：把新字体文件放到项目根目录，并修改 `music_prompt_gui.py` 顶部的 `PROJ_FONT_PATH` 指向它即可。
+
+
+---
+
+## 仓库索引标注（2026-08-25 · siwpan 统一治理）
+
+> 纯音乐风格提示词生成器；本地对应 G:\music\musickit\music（musickit 全项目见本仓 musickit 分支）。
+> 本标注为发布面统一追加，不改变原有内容。
