@@ -174,7 +174,8 @@ python demo_validator.py
 
 ---
 
-## 仓库索引标注（2026-08-25 · siwpan 统一治理）
+## 仓库索引标注（2026-08-27 · siwpan 统一治理）
 
-> 纯音乐风格提示词生成器；本地对应 G:\music\musickit\music（musickit 全项目见本仓 musickit 分支）。
+> 纯音乐风格提示词生成器（独立仓 siwpan/music-prompt-generator）；本地对应 G:\repos\music-prompt-generator。
+> musickit 混音项目为独立仓 siwpan/musickit（两仓独立演进）。
 > 本标注为发布面统一追加，不改变原有内容。
