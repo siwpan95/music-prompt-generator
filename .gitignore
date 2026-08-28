@@ -1,4 +1,4 @@
-# Python 运行缓存
+﻿# Python 运行缓存
 __pycache__/
 *.py[cod]
 
@@ -13,3 +13,6 @@ ZhouZiSongTi/
 
 # 注意：优设标题黑.ttf（项目 GUI 字体，中文简体标题黑体）是项目文件，
 # 位于项目根目录、应纳入版本库跟踪，不受上面的 ZhouZiSongTi/ 目录规则影响。
+
+# 未跟踪产物/输出治理（2026-08-28）
+release/
