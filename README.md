@@ -1,5 +1,8 @@
 # 纯音乐风格提示词生成器 · Music Prompt Generator
 
+> 仓库：<https://gitee.com/siwpan/music-prompt-generator> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+> 注：文中 <PATH> 为路径占位符，请替换为你本机实际的目录 / 可执行文件路径。
+
 一个从风格池（`styles/`）随机抽取要素、自动生成「纯音乐风格提示词」的小工具，用于 AI 音乐生成（Suno / Udio 等）的灵感与批量提示词生产。
 
 ---
@@ -176,6 +179,6 @@ python demo_validator.py
 
 ## 仓库索引标注（2026-08-27 · siwpan 统一治理）
 
-> 纯音乐风格提示词生成器（独立仓 siwpan/music-prompt-generator）；本地对应 G:\repos\music-prompt-generator。
+> 纯音乐风格提示词生成器（独立仓 siwpan/music-prompt-generator）；本地对应 <PATH>。
 > musickit 混音项目为独立仓 siwpan/musickit（两仓独立演进）。
 > 本标注为发布面统一追加，不改变原有内容。
