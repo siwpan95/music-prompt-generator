@@ -16,3 +16,9 @@ ZhouZiSongTi/
 
 # 未跟踪产物/输出治理（2026-08-28）
 release/
+
+# 测试/评估产物（可再生，2026-10-30）
+# 由 test_suite.py / demo_validator.py 运行生成，不入库
+TEST_REPORT.md
+demo_test.csv
+demo_test.json
